@@ -1,0 +1,18 @@
+[
+    {
+      "question": "What is the capital of France?",
+      "options": ["Paris", "London", "Rome", "Berlin"],
+      "correctAnswer": "Paris"
+    },
+    {
+      "question": "Which is the largest ocean on Earth?",
+      "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+      "correctAnswer": "Pacific"
+    },
+    {
+      "question": "Who wrote 'Hamlet'?",
+      "options": ["Shakespeare", "Dickens", "Hemingway", "Austen"],
+      "correctAnswer": "Shakespeare"
+    }
+  ]
+  

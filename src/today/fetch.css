@@ -1,0 +1,13 @@
+input{
+    margin-top: 5vh;
+    padding: 15px;
+}
+
+input [type='text'] {
+    font-size: 18px;
+}
+body{
+    background-color: rgb(205, 163, 245);
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}

@@ -1,0 +1,25 @@
+.quiz-app {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .question {
+    margin-bottom: 20px;
+  }
+  
+  .options button {
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  .feedback {
+    margin-top: 20px;
+    font-size: 18px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  

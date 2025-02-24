@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Burger",
+      "price": 250,
+      "image": "https://cdn.pixabay.com/photo/2024/05/06/17/02/burgers-8743798_1280.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dragon Chicken",
+      "price": 290,
+      "image": "https://cdn.pixabay.com/photo/2022/06/23/09/39/food-and-drink-industry-7279389_1280.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Ramen",
+      "price": 399,
+      "image": "https://cdn.pixabay.com/photo/2021/11/16/01/18/dish-6799805_1280.jpg"
+    }
+  ]
+  
